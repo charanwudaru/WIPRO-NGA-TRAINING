@@ -16,7 +16,7 @@ public class AnagramChecker {
             }
         }
         else {
-            System.out.println("they are not Anagram ");
+            System.out.println("they are not a Anagram ");
         }
     }
 
