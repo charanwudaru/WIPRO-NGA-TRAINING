@@ -9,7 +9,7 @@ public class ArrayElementComparison {
             } else if (arr1[i] < arr2[i]) {
                 System.out.println("less than arr2");
             } else {
-                System.out.println("equal");
+                System.out.println("equal try git commends");
             }
         }
     }
