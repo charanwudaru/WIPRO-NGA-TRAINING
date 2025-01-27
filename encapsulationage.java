@@ -13,7 +13,7 @@ public class encapsulationage {
         if (age > 0) {
             this.age = age;
         } else {
-            System.out.println("Invalid age.");
+            System.out.println("Invalid age check git branch.");
         }
     }
 
